@@ -69,7 +69,9 @@ scrollbar-width: none;
     text-transform: uppercase;
 cursor: pointer;
 }
-
+.nav-2{
+display: flex;
+}
 .nav-2 img{
     width: 40px;
     height: 26px;
