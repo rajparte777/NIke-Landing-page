@@ -75,7 +75,8 @@ cursor: pointer;
     height: 26px;
     margin-right: auto;
 display: inline-block;
-flex-shrink: ;
+display: flex;
+
 }
 
 .nav-2 a:hover{
@@ -132,7 +133,7 @@ flex-shrink: ;
     white-space: nowrap;
     overflow-y: auto;
     display: flex;
-    flex-direction:column ;
+  
     
 }
 /* .right-img::-webkit-scrollbar{
